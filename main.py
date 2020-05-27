@@ -6,3 +6,6 @@ if True:
 
 print('neco')
 print('neco dalsiho')
+
+if False:
+    print('aaa')
